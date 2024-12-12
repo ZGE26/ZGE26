@@ -14,7 +14,7 @@
     <li>🔭 I’m currently working on <strong>React and Next.js projects</strong></li>
     <li>🌱 I’m learning <strong>TypeScript</strong> and <strong>GraphQL</strong></li>
     <li>👯 I’m looking to collaborate on <strong>open-source projects</strong></li>
-    <li>📫 Reach me at <a href="mailto:aryaersiputra8@gmail.com">youremail@example.com</a></li>
+    <li>📫 Reach me at <a href="mailto:aryaersiputra8@gmail.com">aryaersiputra8@gmail.com</a></li>
     <li>⚡ Fun fact: I love solving puzzles and exploring new technologies!</li>
   </ul>
 
@@ -28,6 +28,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="Mongodb" width="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="Mysql" width="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Postgresql" width="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="50" />
   </div>
 
   <hr style="width: 80%; margin: 20px auto; border: none; border-top: 1px solid #ccc;">
