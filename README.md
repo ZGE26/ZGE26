@@ -10,7 +10,7 @@
   <hr style="width: 80%; margin: 20px auto; border: none; border-top: 1px solid #ccc;">
 
   <h2>🚀 About Me</h2>
-  <ul style="list-style: none; padding: 0; font-size: 16px; color: #444;">
+  <ul style="list-style: none; padding: 0; font-size: 16px; color: #444;" aligt="left">
     <li>🔭 I’m currently working on <strong>React and Next.js projects</strong></li>
     <li>🌱 I’m learning <strong>TypeScript</strong> and <strong>GraphQL</strong></li>
     <li>👯 I’m looking to collaborate on <strong>open-source projects</strong></li>
@@ -25,6 +25,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" />
   </div>
