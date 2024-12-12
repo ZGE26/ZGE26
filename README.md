@@ -10,11 +10,11 @@
   <hr style="width: 80%; margin: 20px auto; border: none; border-top: 1px solid #ccc;">
 
   <h2>🚀 About Me</h2>
-  <ul style="list-style: none; padding: 0; font-size: 16px; color: #444;" aligt="left">
+  <ul style="list-style: none; padding: 0; font-size: 16px; color: #444;" align="left">
     <li>🔭 I’m currently working on <strong>React and Next.js projects</strong></li>
     <li>🌱 I’m learning <strong>TypeScript</strong> and <strong>GraphQL</strong></li>
     <li>👯 I’m looking to collaborate on <strong>open-source projects</strong></li>
-    <li>📫 Reach me at <a href="mailto:youremail@example.com">youremail@example.com</a></li>
+    <li>📫 Reach me at <a href="mailto:aryaersiputra8@gmail.com">youremail@example.com</a></li>
     <li>⚡ Fun fact: I love solving puzzles and exploring new technologies!</li>
   </ul>
 
