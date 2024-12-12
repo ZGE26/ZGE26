@@ -1,5 +1,5 @@
 <div align="center" style="font-family: Arial, sans-serif;">
-  <img src="https://i.pinimg.com/736x/79/1b/70/791b70c293bacb9a6fdd4d68eaf3f27c.jpg" alt="Your Avatar" style="width: 100%; height: auto; max-height: 300px; margin-bottom: 20px;">
+  <img src="https://i.pinimg.com/originals/d8/8d/30/d88d306a069f52ea9367ba181cf72632.gif" alt="Your Avatar" style="width: 100%; height: auto; max-height: 300px; margin-bottom: 20px;">
   
   <h1>Hi there 👋, I'm Arya Ersi Putra</h1>
   <p style="font-size: 18px; line-height: 1.5; color: #555;">
