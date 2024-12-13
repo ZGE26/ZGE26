@@ -39,7 +39,6 @@
 
   <h2>📊 GitHub Stats</h2>
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ZGE26&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZGE26&layout=compact&theme=radical" alt="Top Languages" width="48%" />
   </div>
 
