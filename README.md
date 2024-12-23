@@ -3,8 +3,7 @@
   
   <h1>Hi there 👋, I'm Arya Ersi Putra</h1>
   <p style="font-size: 18px; line-height: 1.5; color: #555;">
-    Welcome to my GitHub profile! I'm a passionate developer specializing in <strong>front-end development</strong>. 
-    I love building interactive, user-friendly, and visually appealing web applications.
+    Welcome to my GitHub profile! I am a passionate developer and self-directed in <strong>front-end development</strong>. I love building interactive, easy-to-use, and visually appealing web applications. My Favorite Programming Language is Type Script
   </p>
 
   <hr style="width: 80%; margin: 20px auto; border: none; border-top: 1px solid #ccc;">
