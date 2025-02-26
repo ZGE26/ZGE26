@@ -32,6 +32,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Postgresql" width="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="50" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/kotlin-original.svg" alt="Tailwind" width="50" />
   </div>
 
   <hr style="width: 80%; margin: 20px auto; border: none; border-top: 1px solid #ccc;">
