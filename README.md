@@ -32,7 +32,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Postgresql" width="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="50" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Tailwind" width="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" />
   </div>
 
   <hr style="width: 80%; margin: 20px auto; border: none; border-top: 1px solid #ccc;">
@@ -40,6 +40,28 @@
   <h2>📊 GitHub Stats</h2>
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZGE26&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  </div>
+
+  <div style="display: flex; justify-content: center; margin-top: 20px;">
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZGE26&theme=github"
+      alt="Profile Details"
+      width="60%"
+    />
+  </div>
+
+  <!-- Tambahan state 2 lainnya -->
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZGE26&theme=github"
+      alt="Most Commit Language"
+      width="48%"
+    />
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZGE26&theme=github"
+      alt="Repos Per Language"
+      width="48%"
+    />
   </div>
 
   <hr style="width: 80%; margin: 20px auto; border: none; border-top: 1px solid #ccc;">
