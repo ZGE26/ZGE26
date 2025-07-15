@@ -5,6 +5,10 @@
   <p style="font-size: 18px; line-height: 1.5; color: #555;">
     Welcome to my GitHub profile! I am a passionate developer and self-directed in <strong>front-end development</strong>. I love building interactive, easy-to-use, and visually appealing web applications. My Favorite Programming Language is Type Script
   </p>
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ZGE26&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 
   <hr style="width: 80%; margin: 20px auto; border: none; border-top: 1px solid #ccc;">
 
